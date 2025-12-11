@@ -1,4 +1,4 @@
-// Intor To TypeScript
+// Intro To TypeScript
 // TypeScript Add Syntax On Top Of JavaScript
 // TypeScript Ensure Type Safety
 
