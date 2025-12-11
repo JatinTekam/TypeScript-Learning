@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start":"",
+    "dev":""
+  },
   "devDependencies": {
     "typescript": "^5.9.3"
   }
