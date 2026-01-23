@@ -61,3 +61,9 @@ enum Status{
    RESLOVED  // 102
 }
 
+console.log("hello");
+
+let a:number=30;
+
+
+
